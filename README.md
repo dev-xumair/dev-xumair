@@ -1,6 +1,72 @@
-# 💫 About Me:
-# 👋 Hi, I'm NX-Dev<br><br> Building real-world digital systems — ecommerce, AI tools, bots, and software.<br><br>---<br><br>## 🔭 I’m currently working on<br>- 🛒 NexWorld — Modern Ecommerce Platform (Laravel + MySQL)<br>- 🌐 High-end 3D Developer Portfolio (Next.js + Three.js)<br>- ⚙️ Backend systems & admin panels<br><br>---<br><br>## 🤝 I’m looking to collaborate on<br>- AI-based web apps<br>- Ecommerce systems<br>- Automation tools<br>- Open-source developer tools<br><br>---<br><br>## 🆘 I’m looking for help with<br>- Advanced Three.js / WebGL optimization<br>- Scaling backend architecture<br>- AI integrations (APIs, automation systems)<br><br>---<br><br>## 🌱 I’m currently learning<br>- Next.js + React ecosystem<br>- Three.js / React Three Fiber (3D Web)<br>- Laravel advanced backend systems<br>- AI tools & API integrations<br><br>---<br><br>## 💬 Ask me about<br>- Ecommerce development (NexWorld)<br>- Frontend UI/UX systems<br>- Backend architecture (PHP/Laravel)<br>- Building real-world projects from scratch<br><br>---<br><br>## ⚡ Fun fact<br>I focus on building real working systems instead of just designs 🚀<br><br>---<br><br>## 🛠️ Tech Stack<br>- Frontend: HTML, CSS, JavaScript, Tailwind<br>- Backend: PHP, Laravel, MySQL<br>- Tools: GitHub, XAMPP, Windsurf IDE<br>- Learning: Next.js, Three.js, AI APIs<br><br>---<br><br>## 📫 Contact Me<br>- Email: mr.nazimx@gmail.com<br>- WhatsApp: +923463206754<br><br>---<br><br><br>##Future Builds (NX Vision)<br>- AI Apps & Tools<br>- WhatsApp Bots (NextGen-XMD)<br>- Custom Software Systems<br>- Digital Products Marketplace<br>- Automation Platforms
+# 👋 Hi, I'm NazimX (NX)
 
+🚀 Building real-world digital systems — ecommerce, AI tools, bots, and software.
+
+---
+
+## 🔭 I’m currently working on
+- 🛒 NexWorld — Modern Ecommerce Platform (Laravel + MySQL)
+- 🌐 High-end 3D Developer Portfolio (Next.js + Three.js)
+- ⚙️ Backend systems & admin panels
+
+---
+
+## 🤝 I’m looking to collaborate on
+- AI-based web apps
+- Ecommerce systems
+- Automation tools
+- Open-source developer tools
+
+---
+
+## 🆘 I’m looking for help with
+- Advanced Three.js / WebGL optimization
+- Scaling backend architecture
+- AI integrations (APIs, automation systems)
+
+---
+
+## 🌱 I’m currently learning
+- Next.js + React ecosystem
+- Three.js / React Three Fiber (3D Web)
+- Laravel advanced backend systems
+- AI tools & API integrations
+
+---
+
+## 💬 Ask me about
+- Ecommerce development (NexWorld)
+- Frontend UI/UX systems
+- Backend architecture (PHP/Laravel)
+- Building real-world projects from scratch
+
+---
+
+## ⚡ Fun fact
+I focus on building real working systems instead of just designs 🚀
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, Tailwind
+- Backend: PHP, Laravel, MySQL
+- Tools: GitHub, XAMPP, Windsurf IDE
+- Learning: Next.js, Three.js, AI APIs
+
+---
+
+## 📫 Contact Me
+- Email: mr.nazimx@gmail.com
+- WhatsApp: +923463206754
+
+---
+
+## 🚀 Future Builds (NX Vision)
+- AI Apps & Tools
+- WhatsApp Bots (NextGen-XMD)
+- Custom Software Systems
+- Digital Products Marketplace
+- Automation Platforms
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.nazimx@gmail.com) 
