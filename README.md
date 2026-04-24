@@ -1,97 +1,18 @@
-# 👋 Hi, I'm NX-Dev
+# 💫 About Me:
+# 👋 Hi, I'm NX-Dev<br><br> Building real-world digital systems — ecommerce, AI tools, bots, and software.<br><br>---<br><br>## 🔭 I’m currently working on<br>- 🛒 NexWorld — Modern Ecommerce Platform (Laravel + MySQL)<br>- 🌐 High-end 3D Developer Portfolio (Next.js + Three.js)<br>- ⚙️ Backend systems & admin panels<br><br>---<br><br>## 🤝 I’m looking to collaborate on<br>- AI-based web apps<br>- Ecommerce systems<br>- Automation tools<br>- Open-source developer tools<br><br>---<br><br>## 🆘 I’m looking for help with<br>- Advanced Three.js / WebGL optimization<br>- Scaling backend architecture<br>- AI integrations (APIs, automation systems)<br><br>---<br><br>## 🌱 I’m currently learning<br>- Next.js + React ecosystem<br>- Three.js / React Three Fiber (3D Web)<br>- Laravel advanced backend systems<br>- AI tools & API integrations<br><br>---<br><br>## 💬 Ask me about<br>- Ecommerce development (NexWorld)<br>- Frontend UI/UX systems<br>- Backend architecture (PHP/Laravel)<br>- Building real-world projects from scratch<br><br>---<br><br>## ⚡ Fun fact<br>I focus on building real working systems instead of just designs 🚀<br><br>---<br><br>## 🛠️ Tech Stack<br>- Frontend: HTML, CSS, JavaScript, Tailwind<br>- Backend: PHP, Laravel, MySQL<br>- Tools: GitHub, XAMPP, Windsurf IDE<br>- Learning: Next.js, Three.js, AI APIs<br><br>---<br><br>## 📫 Contact Me<br>- Email: mr.nazimx@gmail.com<br>- WhatsApp: +923463206754<br><br>---<br><br><br>##Future Builds (NX Vision)<br>- AI Apps & Tools<br>- WhatsApp Bots (NextGen-XMD)<br>- Custom Software Systems<br>- Digital Products Marketplace<br>- Automation Platforms
 
-🚀 Building **NX Builds** — a premium developer brand focused on real-world digital systems, ecommerce platforms, web apps, automation tools, and future AI-powered products.
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.nazimx@gmail.com) 
 
-## 💫 About Me
-
-I'm currently building my development journey around practical, real systems — not only designs.
-
-My main focus right now is:
-
-- 🛒 **NexWorld** — Ecommerce & Digital Store Platform
-- 🌐 **NX Builds Portfolio** — High-end 3D developer portfolio
-- ⚙️ Backend systems, admin panels, and scalable web structures
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dev-xumair&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dev-xumair&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-xumair&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=dev-xumair&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔭 Current Work
-
-- 🛒 Building **NexWorld** with Laravel, MySQL, Blade, Alpine.js
-- 🌐 Creating a premium **3D portfolio** using Next.js, Tailwind, Three.js
-- 🧩 Improving frontend UI, responsive layouts, and admin control systems
-- 🚀 Preparing projects for GitHub, portfolio showcase, and future deployment
-
----
-
-## 🌱 Currently Learning
-
-- Next.js & React ecosystem
-- Three.js / React Three Fiber
-- Framer Motion & GSAP animations
-- Laravel backend architecture
-- AI API integrations
-- Deployment workflows
-
----
-
-## 💡 Focus Areas
-
-- Ecommerce development
-- 3D portfolio websites
-- Frontend UI/UX systems
-- Backend architecture
-- Admin panels & dashboards
-- Automation tools
-- Real-world project building
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-HTML, CSS, JavaScript, Tailwind CSS, Alpine.js
-
-**Backend:**  
-PHP, Laravel, MySQL
-
-**3D & Animation:**  
-Three.js, React Three Fiber, Framer Motion, GSAP
-
-**Tools:**  
-GitHub, XAMPP, Windsurf IDE, VS Code, Vercel
-
-**Learning / Future:**  
-Next.js, AI APIs, WebGL, automation systems
-
----
-
-## 🚀 Main Project
-
-### 🛒 NexWorld
-A modern ecommerce and digital store platform inspired by Amazon, Daraz, Shopify, and premium online marketplaces.
-
-**Goal:**  
-To build a scalable online platform with strong admin control, responsive frontend, product management, checkout flow, digital product support, and future AI-powered features.
-
----
-
-## 🌐 NX Builds Portfolio
-
-A premium 3D animated developer portfolio designed to showcase:
-
-- Ecommerce projects
-- Web apps
-- AI tools
-- Bots
-- Custom software
-- Digital products
-- Future client work
-
----
-
-## 🧠 NX Build Process
-
-```text
-Idea → Design → Development → Testing → Launch → Improve
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
