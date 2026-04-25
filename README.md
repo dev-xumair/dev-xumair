@@ -1,4 +1,5 @@
-# 👋 NazimX (NX)
+# 👋 I'm NX
+
 
  Building real-world digital systems — ecommerce, AI tools & automation.
 
@@ -33,6 +34,7 @@
 📧 [mr.nazimx@gmail.com](mailto:mr.nazimx@gmail.com)
 
 ---
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.nazimx@gmail.com) 
