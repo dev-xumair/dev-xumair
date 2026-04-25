@@ -1,72 +1,38 @@
-# 👋 Hi, I'm NazimX (NX)
+# 👋 NazimX (NX)
 
-🚀 Building real-world digital systems — ecommerce, AI tools, bots, and software.
-
----
-
-## 🔭 I’m currently working on
-- 🛒 NexWorld — Modern Ecommerce Platform (Laravel + MySQL)
-- 🌐 High-end 3D Developer Portfolio (Next.js + Three.js)
-- ⚙️ Backend systems & admin panels
+ Building real-world digital systems — ecommerce, AI tools & automation.
 
 ---
 
-## 🤝 I’m looking to collaborate on
-- AI-based web apps
-- Ecommerce systems
-- Automation tools
-- Open-source developer tools
+### ⚡ What I Do
+
+* 🛒 Ecommerce Systems (NexWorld)
+* 🤖 AI Apps & Automation
+* ⚙️ Scalable Backend Systems
 
 ---
 
-## 🆘 I’m looking for help with
-- Advanced Three.js / WebGL optimization
-- Scaling backend architecture
-- AI integrations (APIs, automation systems)
+### 🛠️ Stack
+
+**Frontend:** HTML, CSS, JavaScript, Tailwind, Next.js
+**Backend:** PHP (Laravel), MySQL
+**Learning:** Three.js, AI Integrations
 
 ---
 
-## 🌱 I’m currently learning
-- Next.js + React ecosystem
-- Three.js / React Three Fiber (3D Web)
-- Laravel advanced backend systems
-- AI tools & API integrations
+### 🚀 Focus
+
+* Build > Theory
+* Real Products > Templates
+* Systems that scale
 
 ---
 
-## 💬 Ask me about
-- Ecommerce development (NexWorld)
-- Frontend UI/UX systems
-- Backend architecture (PHP/Laravel)
-- Building real-world projects from scratch
+### 📫 Contact
+
+📧 [mr.nazimx@gmail.com](mailto:mr.nazimx@gmail.com)
 
 ---
-
-## ⚡ Fun fact
-I focus on building real working systems instead of just designs 🚀
-
----
-
-## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, Tailwind
-- Backend: PHP, Laravel, MySQL
-- Tools: GitHub, XAMPP, Windsurf IDE
-- Learning: Next.js, Three.js, AI APIs
-
----
-
-## 📫 Contact Me
-- Email: mr.nazimx@gmail.com
-- WhatsApp: +923463206754
-
----
-
-## 🚀 Future Builds (NX Vision)
-- AI Apps & Tools
-- WhatsApp Bots (NextGen-XMD)
-- Custom Software Systems
-- Digital Products Marketplace
-- Automation Platforms
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.nazimx@gmail.com) 
